@@ -1,0 +1,7 @@
+{
+  "name": "Enterprise Habit Tracker",
+  "description": "A production-ready, offline-first habit tracking PWA with daily logging, analytics, and AI coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
